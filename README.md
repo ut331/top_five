@@ -1,5 +1,7 @@
 # top_five
 
+Name: Uday Talasila
+
 Sample Top Five project for the CI/CD activity in class. To run the project locally, please use the following commands in your terminal (requires Python installation):
 * pip install -r requirements.txt
 * python app.py
